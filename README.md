@@ -15,7 +15,9 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
 ```bash
-git clone --submodules https://github.com/Joaohsd/coffee-stock-application
+git clone --recurse-submodules https://github.com/Joaohsd/coffee-stock-application
+cd coffee-stock-application/
+git submodule update --init
 ```
 
 ## 🔗 Submódulos
