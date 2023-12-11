@@ -1,4 +1,4 @@
-# 📦 Aplicativo para Administração de Estoque de Café
+# ☕ Aplicativo para Administração de Estoque de Café
 
 Uma plataforma de aplicativo desenvolvida para otimizar a gestão de estoque e o relacionamento com clientes no setor de café.
 
