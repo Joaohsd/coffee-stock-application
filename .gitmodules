@@ -1,6 +1,6 @@
 [submodule "coffee-stock-application-frontend"]
 	path = coffee-stock-application-frontend
-	url = https://github.com/PedroPereiraGuimaraes/coffee-stock-application-frontend
+	url = https://github.com/PedroPereiraGuimaraes/coffee-stock-application-frontend/tree/main/
 [submodule "coffee-stock-api"]
 	path = coffee-stock-api
-	url = https://github.com/Joaohsd/coffee-stock-api
+	url = https://github.com/Joaohsd/coffee-stock-api/tree/main
