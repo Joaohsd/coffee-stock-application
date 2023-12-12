@@ -34,3 +34,6 @@ Para cada submódulo, acesse os links e siga o `README.md`.
  - [João Henrique Delfino](https://github.com/Joaohsd)
  - [Paulo Otávio Luczensky de Souza](https://github.com/PauloLuczensky)
  - [Pedro Pereira Guimarães](https://github.com/PedroPereiraGuimaraes)
+
+## 🔗 Video
+-[Coffee Stock Application Video](https://youtu.be/ye0eZoGO9r4)
